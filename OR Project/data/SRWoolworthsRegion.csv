@@ -1,0 +1,66 @@
+Location,Type,Store,Lat,Long,Region
+Airport,Countdown,Countdown Airport,-36.99736985,174.7888823,South
+Auckland City,Countdown,Countdown Auckland City,-36.84496186,174.7731192,Central
+Aviemore Drive,Countdown,Countdown Aviemore Drive,-36.89887827,174.9065699,East
+Birkenhead,Countdown,Countdown Birkenhead,-36.81111802,174.7248776,North
+Blockhouse Bay,Countdown,Countdown Blockhouse Bay,-36.92291876,174.7023521,West
+Botany Downs,Countdown,Countdown Botany Downs,-36.92972626,174.9110718,East
+Browns Bay,Countdown,Countdown Browns Bay,-36.71714479,174.7472772,North
+Glenfield,Countdown,Countdown Glenfield,-36.78148813,174.7234262,North
+Greenlane,Countdown,Countdown Greenlane,-36.88916156,174.7935037,Central
+Grey Lynn,Countdown,Countdown Grey Lynn,-36.85144346,174.7318719,Central
+Grey Lynn Central,Countdown,Countdown Grey Lynn Central,-36.86311836,174.7385667,Central
+Hauraki Corner,Countdown,Countdown Hauraki Corner,-36.79667981,174.7781249,North
+Henderson,Countdown,Countdown Henderson,-36.88089456,174.6332277,West
+Hobsonville,Countdown,Countdown Hobsonville,-36.79748845,174.6487257,West
+Howick,Countdown,Countdown Howick,-36.89585201,174.9335377,East
+Kelston,Countdown,Countdown Kelston,-36.90955497,174.6638042,West
+Lincoln Road,Countdown,Countdown Lincoln Road,-36.8568778,174.6325126,West
+Lynfield,Countdown,Countdown Lynfield,-36.92514077,174.7239957,Central
+Lynmall,Countdown,Countdown Lynmall,-36.90687152,174.6850146,West
+Mairangi Bay,Countdown,Countdown Mairangi Bay,-36.73941255,174.7540551,North
+Mangere East,Countdown,Countdown Mangere East,-36.9657908,174.825346,South
+Mangere Mall,Countdown,Countdown Mangere Mall,-36.96987802,174.8011202,South
+Manukau,Countdown,Countdown Manukau,-36.98676855,174.8848148,South
+Manukau Mall,Countdown,Countdown Manukau Mall,-36.99174967,174.8831931,South
+Manurewa,Countdown,Countdown Manurewa,-37.01734442,174.8651097,South
+Meadowbank,Countdown,Countdown Meadowbank,-36.87610706,174.8289359,East
+Meadowlands,Countdown,Countdown Meadowlands,-36.9132518,174.929465,East
+Milford,Countdown,Countdown Milford,-36.77197217,174.7666177,North
+Mt Eden,Countdown,Countdown Mt Eden,-36.87718131,174.7523352,Central
+Mt Roskill,Countdown,Countdown Mt Roskill,-36.90203359,174.7356996,Central
+Mt Wellington,Countdown,Countdown Mt Wellington,-36.9093147,174.837989,East
+Newmarket,Countdown,Countdown Newmarket,-36.8705446,174.7754093,Central
+Northcote,Countdown,Countdown Northcote,-36.80035237,174.7455338,North
+Northwest,Countdown,Countdown Northwest,-36.81879206,174.6129291,West
+Onehunga,Countdown,Countdown Onehunga,-36.92249969,174.7838024,Central
+Pakuranga,Countdown,Countdown Pakuranga,-36.91284146,174.8714299,East
+Papakura,Countdown,Countdown Papakura,-37.06390487,174.9447236,South
+Papatoetoe,Countdown,Countdown Papatoetoe,-36.97039494,174.862111,South
+Ponsonby,Countdown,Countdown Ponsonby,-36.8584399,174.7491386,Central
+Pt Chevalier,Countdown,Countdown Pt Chevalier,-36.86957431,174.7105595,Central
+Roselands,Countdown,Countdown Roselands,-37.0589478,174.9414297,South
+St Johns,Countdown,Countdown St Johns,-36.87888192,174.8548393,East
+St Lukes,Countdown,Countdown St Lukes,-36.88336862,174.7347459,Central
+Sunnynook,Countdown,Countdown Sunnynook,-36.75907026,174.7406941,North
+Sylvia Park,Countdown,Countdown Sylvia Park,-36.91713855,174.8418202,East
+Takanini,Countdown,Countdown Takanini,-37.04764284,174.9279243,South
+Takapuna,Countdown,Countdown Takapuna,-36.79125414,174.7662056,North
+Te Atatu,Countdown,Countdown Te Atatu,-36.84209292,174.6542381,West
+Te Atatu South,Countdown,Countdown Te Atatu South,-36.86472278,174.6476292,West
+Three Kings,Countdown,Countdown Three Kings,-36.90796057,174.7559072,Central
+Victoria Street West,Countdown,Countdown Victoria Street West,-36.84853355,174.7648512,Central
+Westgate,Countdown,Countdown Westgate,-36.82092949,174.6146464,West
+Albert Street,Countdown Metro,Countdown Metro Albert Street,-36.84350157,174.7658662,Central
+Halsey Street,Countdown Metro,Countdown Metro Halsey Street,-36.84358106,174.7578066,Central
+Auckland,Distribution Centre,Distribution Centre Auckland,-36.94904179,174.8080123,Distribution Centre Auckland
+Glen Eden,FreshChoice,FreshChoice Glen Eden,-36.91087436,174.6545496,West
+Half Moon Bay,FreshChoice,FreshChoice Half Moon Bay,-36.88106607,174.9002827,East
+Mangere Bridge,FreshChoice,FreshChoice Mangere Bridge,-36.94250829,174.7869875,Central
+Otahuhu,FreshChoice,FreshChoice Otahuhu,-36.94480584,174.8431184,East
+Ranui,FreshChoice,FreshChoice Ranui,-36.86353948,174.6015834,West
+Avondale,SuperValue,SuperValue Avondale,-36.89776863,174.69741,West
+Flatbush,SuperValue,SuperValue Flatbush,-36.97676671,174.8972267,South
+Palomino,SuperValue,SuperValue Palomino,-36.88287566,174.6161793,West
+Papakura,SuperValue,SuperValue Papakura,-37.06606311,174.9556975,South
+Titirangi,SuperValue,SuperValue Titirangi,-36.93739048,174.6572984,West
